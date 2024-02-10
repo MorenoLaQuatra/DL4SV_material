@@ -35,4 +35,4 @@ The course assumes a basic knowledge of the following topics:
 ## Course Material
 
 All the material for the course is available in this repository. 
-Please [follow this link](www.mlaquatra.me/DL4SV_material) to access the jupyter book containing the course material.
+Please [follow this link](https://www.mlaquatra.me/DL4SV_material) to access the jupyter book containing the course material.
